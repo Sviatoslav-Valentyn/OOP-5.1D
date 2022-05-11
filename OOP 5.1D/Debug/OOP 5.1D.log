@@ -1,0 +1,10 @@
+﻿  Pair.cpp
+C:\Users\Asus\Desktop\ООП 5.1D\OOP 5.1D\Pair.h(19,6): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Asus\Desktop\ООП 5.1D\OOP 5.1D\Pair.h(25,45): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Asus\Desktop\ООП 5.1D\OOP 5.1D\Pair.h(26,45): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Asus\Desktop\ООП 5.1D\OOP 5.1D\Pair.h(38,75): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Asus\Desktop\ООП 5.1D\OOP 5.1D\Pair.cpp(9,70): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Asus\Desktop\ООП 5.1D\OOP 5.1D\Pair.cpp(23,50): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Asus\Desktop\ООП 5.1D\OOP 5.1D\Pair.cpp(30,50): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Asus\Desktop\ООП 5.1D\OOP 5.1D\Pair.cpp(88,75): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+  OOP 5.1D.vcxproj -> C:\Users\Asus\Desktop\ООП 5.1D\OOP 5.1D\Debug\OOP 5.1D.exe

@@ -1,0 +1,20 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+C:\Users\Asus\Desktop\ООП 5.1D\OOP 5.1D\Pair.h(19,6): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Asus\Desktop\ООП 5.1D\OOP 5.1D\Pair.h(25,45): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Asus\Desktop\ООП 5.1D\OOP 5.1D\Pair.h(26,45): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Asus\Desktop\ООП 5.1D\OOP 5.1D\Pair.h(38,75): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Asus\Desktop\ООП 5.1D\OOP 5.1D\Pair.cpp(9,70): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Asus\Desktop\ООП 5.1D\OOP 5.1D\Pair.cpp(23,50): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Asus\Desktop\ООП 5.1D\OOP 5.1D\Pair.cpp(30,50): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Asus\Desktop\ООП 5.1D\OOP 5.1D\Pair.cpp(88,75): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Asus\Desktop\ООП 5.1D\OOP 5.1D\Point.h(12,40): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Asus\Desktop\ООП 5.1D\OOP 5.1D\Point.h(13,40): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Asus\Desktop\ООП 5.1D\OOP 5.1D\Point.h(14,42): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Asus\Desktop\ООП 5.1D\OOP 5.1D\Point.h(15,42): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Asus\Desktop\ООП 5.1D\OOP 5.1D\Point.cpp(41,45): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Asus\Desktop\ООП 5.1D\OOP 5.1D\Point.cpp(49,45): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Asus\Desktop\ООП 5.1D\OOP 5.1D\Point.cpp(57,47): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Asus\Desktop\ООП 5.1D\OOP 5.1D\Point.cpp(66,47): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+     Создается библиотека C:\Users\Asus\Desktop\ООП 5.1D\OOP 5.1D\Debug\UnitTest1.lib и объект C:\Users\Asus\Desktop\ООП 5.1D\OOP 5.1D\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\Asus\Desktop\ООП 5.1D\OOP 5.1D\Debug\UnitTest1.dll
